@@ -106,6 +106,7 @@ h3{
 }
 
 
+
 //----------MIXINS----------
 
 @mixin caja-flex($principal, $cruzado, $wrap) {
@@ -113,7 +114,6 @@ h3{
     justify-content: $principal;
     align-items: $cruzado;
     flex-wrap: $wrap;
-
 
     
 }
